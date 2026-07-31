@@ -1,5 +1,3 @@
 name = "pinterest-downloader"
+main = "src/index.js" # Or "index.js" / "src/index.ts" depending on where your main file is
 compatibility_date = "2026-07-31"
-
-[assets]
-directory = "./dist"
